@@ -1,37 +1,28 @@
-# Travail de session : Programmation 2
-## Une petite description du projet
-  
+# INF1573 - Gps
+Projet final dans le cadre du cours INF1573
 
-## Pour commencer
-  Pré-requis
-     * 
-   
+## Utilisation
+  Ce projet consiste à déplacer une voiture d'un point à un autre point dans un graphe de la façon la plus optimale prenant en compte la distance des routes et l'état des routes, qu'ils soient congestionnées, accidentées ou fluides.
+[img1](img/demo.JPG)
+
+  
 ## Installation
-  Installer 
+tester avec;
+-jdk-14.0.2
+-Eclipse IDE for java Developper
 
-## Utilisation du programme
+## Exécution
+L'exécutable de trouve dans;
+```bash
+deploy/Prog2_ProjetTraffic.jar
+```
 
-  exemple: Executez la commande telnet mapscii.me pour commencer ensuite [...]
-
-  Ensuite vous pouvez montrer ce que vous obtenez au final...
-
-## Démarrage
-  
-  Cliquer seulement sur le fichier exécutable enigma.exe pour démarer le programme.
-
-## Fabriqué avec
-   Intellij et Eclipse
-   *Interface graphique: NetBeans
-
-## Versions
-  Version stable 1.0 
-
-## Auteurs
-   Charlotte Foucard
-   Gabriel Cote
-   Marilou Fugere
-   Marc-Antoine Ricard
-   Alex Prud'homme
-   Sofiane Fezza
+## Membres de l'équipe
+   -Charlotte Foucard
+   -Gabriel Cote
+   -Marilou Fugere
+   -Marc-Antoine Ricard
+   -Alex Prud'homme
+   -Sofiane Fezza
    
 
